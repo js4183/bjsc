@@ -1,6 +1,6 @@
 const weather = document.querySelector(".weather");
 
-const API_KEY = "d48bc856d494cb35736d6d6909e2a81c";
+const API_KEY = "ddb9f58044987184f7d1f19b942d500d";
 const COORDS = 'coords'; // 좌표
 
 function getWeather(lat, lon){
